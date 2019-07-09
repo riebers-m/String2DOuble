@@ -1,3 +1,0 @@
-﻿  String2Double.cpp
-c:\users\user\source\repos\string2double\string2double\string2double.cpp(19): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
-  String2Double.vcxproj -> C:\Users\User\source\repos\String2Double\Debug\String2Double.exe
